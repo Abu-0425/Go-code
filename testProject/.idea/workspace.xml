@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65716cdf-7cd9-4482-a2c8-dbfb65f1723a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.16.5/libexec" />
+  <component name="ProjectId" id="1ueKLoFSuEyFAsvodMUnkwvLtw6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build testProject" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="testProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/hello.go" />
+      <package value="testProject" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build testProject" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="101" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1625040503761">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="320" y="101" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.825/-2560.64.2560.1417@0.23.1440.825" timestamp="1625040503761" />
+    <state x="625" y="245" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1625021784813">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="625" y="245" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.825/-2560.64.2560.1417@0.23.1440.825" timestamp="1625021784813" />
+    <state width="1398" height="183" key="GridCell.Tab.0.bottom" timestamp="1625220023020">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.0.1440.900/-2560.41.2560.1440@0.0.1440.900" timestamp="1625024773850" />
+    <state width="1398" height="183" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1625220023020" />
+    <state width="1398" height="184" key="GridCell.Tab.0.bottom/0.23.1440.823/-2560.64.2560.1417@0.23.1440.823" timestamp="1625046358416" />
+    <state width="1398" height="183" key="GridCell.Tab.0.bottom/0.23.1440.825/-2560.64.2560.1417@0.23.1440.825" timestamp="1625108644192" />
+    <state width="1398" height="183" key="GridCell.Tab.0.bottom/0.23.1440.826/-2560.64.2560.1417@0.23.1440.826" timestamp="1625193469372" />
+    <state width="1398" height="183" key="GridCell.Tab.0.bottom/0.23.1440.828/-2560.64.2560.1417@0.23.1440.828" timestamp="1625123471864" />
+    <state width="1398" height="183" key="GridCell.Tab.0.bottom/0.23.1440.829/-2560.64.2560.1417@0.23.1440.829" timestamp="1625126730578" />
+    <state width="1398" height="183" key="GridCell.Tab.0.bottom/0.23.1440.830/-2560.64.2560.1417@0.23.1440.830" timestamp="1625134061321" />
+    <state width="1398" height="183" key="GridCell.Tab.0.center" timestamp="1625220023019">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.center/0.0.1440.900/-2560.41.2560.1440@0.0.1440.900" timestamp="1625024773848" />
+    <state width="1398" height="183" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1625220023019" />
+    <state width="1398" height="184" key="GridCell.Tab.0.center/0.23.1440.823/-2560.64.2560.1417@0.23.1440.823" timestamp="1625046358415" />
+    <state width="1398" height="183" key="GridCell.Tab.0.center/0.23.1440.825/-2560.64.2560.1417@0.23.1440.825" timestamp="1625108644190" />
+    <state width="1398" height="183" key="GridCell.Tab.0.center/0.23.1440.826/-2560.64.2560.1417@0.23.1440.826" timestamp="1625193469371" />
+    <state width="1398" height="183" key="GridCell.Tab.0.center/0.23.1440.828/-2560.64.2560.1417@0.23.1440.828" timestamp="1625123471863" />
+    <state width="1398" height="183" key="GridCell.Tab.0.center/0.23.1440.829/-2560.64.2560.1417@0.23.1440.829" timestamp="1625126730577" />
+    <state width="1398" height="183" key="GridCell.Tab.0.center/0.23.1440.830/-2560.64.2560.1417@0.23.1440.830" timestamp="1625134061320" />
+    <state width="1398" height="183" key="GridCell.Tab.0.left" timestamp="1625220023018">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.left/0.0.1440.900/-2560.41.2560.1440@0.0.1440.900" timestamp="1625024773847" />
+    <state width="1398" height="183" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1625220023018" />
+    <state width="1398" height="184" key="GridCell.Tab.0.left/0.23.1440.823/-2560.64.2560.1417@0.23.1440.823" timestamp="1625046358414" />
+    <state width="1398" height="183" key="GridCell.Tab.0.left/0.23.1440.825/-2560.64.2560.1417@0.23.1440.825" timestamp="1625108644189" />
+    <state width="1398" height="183" key="GridCell.Tab.0.left/0.23.1440.826/-2560.64.2560.1417@0.23.1440.826" timestamp="1625193469370" />
+    <state width="1398" height="183" key="GridCell.Tab.0.left/0.23.1440.828/-2560.64.2560.1417@0.23.1440.828" timestamp="1625123471862" />
+    <state width="1398" height="183" key="GridCell.Tab.0.left/0.23.1440.829/-2560.64.2560.1417@0.23.1440.829" timestamp="1625126730576" />
+    <state width="1398" height="183" key="GridCell.Tab.0.left/0.23.1440.830/-2560.64.2560.1417@0.23.1440.830" timestamp="1625134061319" />
+    <state width="1398" height="183" key="GridCell.Tab.0.right" timestamp="1625220023019">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.right/0.0.1440.900/-2560.41.2560.1440@0.0.1440.900" timestamp="1625024773849" />
+    <state width="1398" height="183" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1625220023019" />
+    <state width="1398" height="184" key="GridCell.Tab.0.right/0.23.1440.823/-2560.64.2560.1417@0.23.1440.823" timestamp="1625046358415" />
+    <state width="1398" height="183" key="GridCell.Tab.0.right/0.23.1440.825/-2560.64.2560.1417@0.23.1440.825" timestamp="1625108644191" />
+    <state width="1398" height="183" key="GridCell.Tab.0.right/0.23.1440.826/-2560.64.2560.1417@0.23.1440.826" timestamp="1625193469371" />
+    <state width="1398" height="183" key="GridCell.Tab.0.right/0.23.1440.828/-2560.64.2560.1417@0.23.1440.828" timestamp="1625123471863" />
+    <state width="1398" height="183" key="GridCell.Tab.0.right/0.23.1440.829/-2560.64.2560.1417@0.23.1440.829" timestamp="1625126730578" />
+    <state width="1398" height="183" key="GridCell.Tab.0.right/0.23.1440.830/-2560.64.2560.1417@0.23.1440.830" timestamp="1625134061321" />
+  </component>
+</project>
